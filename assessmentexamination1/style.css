@@ -1,0 +1,9 @@
+.metalic-font {
+  	font-size:50px;
+  	text-align:center;
+  	line-height:0.95em;
+  	font-weight:bold;
+  	color: transparent;
+  	background: repeating-linear-gradient(0deg, #C62828 0.1em, #EF5350 0.2em, #FFEBEE 0.3em, #EF5350 0.4em, #C62828 0.5em);
+  	-webkit-background-clip: text;
+  }
